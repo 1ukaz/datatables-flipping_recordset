@@ -1,0 +1,25 @@
+{
+    "proyeccion": {
+        "visa": [
+            {"fecha_pago": "2016-04-20", "importe": 990.00},
+            {"fecha_pago": "2016-04-21", "importe": 98.00},
+            {"fecha_pago": "2016-04-25", "importe": 650.00}
+        ],
+        "firstdata": [
+            {"fecha": "2016-04-19", "importe": 210.00},
+            {"fecha": "2016-04-18", "importe": 95.00},
+            {"fecha": "2016-04-25", "importe": 550.00}
+        ],
+        "amex": [
+            {"fecha": "2016-04-27", "importe": 220.00},
+            {"fecha": "2016-04-28", "importe": 950.00},
+            {"fecha": "2016-04-29", "importe": 740.00}
+        ],
+        "naranja": [
+            {"fecha": "2016-04-18", "importe": 120.00},
+            {"fecha": "2016-04-27", "importe": 420.00},
+            {"fecha": "2016-04-28", "importe": 250.00},
+            {"fecha": "2016-04-29", "importe": 830.00}
+        ]
+    }
+}
